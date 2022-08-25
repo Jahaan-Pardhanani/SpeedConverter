@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpeedConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpeedConverter_jar</output-path>
+    <root id="archive" name="SpeedConverter.jar">
+      <element id="module-output" name="SpeedConverter" />
+    </root>
+  </artifact>
+</component>
